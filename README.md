@@ -9,4 +9,6 @@ I'm a software engineer at [Microsoft](https://github.com/microsoft) working on 
 - 💬 Ask me about Business Central DevOps and GitHub Actions
 
 ### GitHub stats
+![Maria''s GitHub stats](https://github-readme-stats.vercel.app/api?username=mazhelez&show_icons=true)
+![Maria''s top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazhelez&layout=compact)
 ![Maria''s GitHub streak](https://streak-stats.demolab.com/?user=mazhelez)
