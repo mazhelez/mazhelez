@@ -10,5 +10,3 @@ I'm a software engineer at [Microsoft](https://github.com/microsoft) working on 
 
 ### GitHub stats
 ![Maria's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mazhelez&theme=default)
-![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mazhelez&theme=default)
-![Maria's GitHub streak](https://streak-stats.demolab.com/?user=mazhelez)
